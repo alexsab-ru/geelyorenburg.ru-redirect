@@ -1,0 +1,2 @@
+# geelyorenburg.ru
+for redirect
