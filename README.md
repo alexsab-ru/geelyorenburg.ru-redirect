@@ -1,2 +1,2 @@
 # geelyorenburg.ru
-for redirect
+for redirect to (geely-partner-orenburg.ru)[geely-partner-orenburg.ru]
